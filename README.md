@@ -10,6 +10,6 @@ Full-Stack & AI-native Engineer. APIs, integrations and products for real client
 
 **Education:** B.Sc. in IT Management, UADE (graduating Dec 2026).
 
-**Featured:** UADEnet Eventos · Auction App · Multi-DB Airbnb backend · Signalink API
+**Featured:** UADEnet Eventos · AI Teaching Assistant · Auction App · Concert Upsala
 
 [Portfolio](https://tomaslonati.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tomaslonati/)
